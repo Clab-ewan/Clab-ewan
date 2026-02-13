@@ -51,12 +51,6 @@ J'adore le challenge des hackathons pour prototyper des solutions innovantes en 
 
 N'hésite pas à me contacter pour discuter Tech, DeFi ou opportunités !
 
-* 📍 **Rueil-Malmaison / Paris**
+* 📍 **Paris**
 * 🎓 **CY Tech** (Mathématiques Appliquées)
 * 💼 **[LinkedIn](https://www.linkedin.com/in/ewan-clabaut/)** ```
-
-### Ce que j'ai adapté grâce à ton CV :
-1.  **Section Hackathons :** C'est maintenant l'élément central après ta bio. J'ai mis en avant la 3e place (Kiln) et le projet international (Londres)[cite: 20, 22].
-2.  **Stack Tech plus précise :** J'ai ajouté **Foundry** (très apprécié des recruteurs Solidity), **Python** et **C** (qui montre que tu as des bases solides en bas niveau grâce à l'école)[cite: 27, 29, 30].
-3.  **Bio affinée :** J'ai précisé "Mathématiques Appliquées" et ta localisation, ce qui donne du contexte à ton profil d'ingénieur[cite: 4, 3].
-4.  **Hobbies :** La mention "Compétition" pour la course et "Niveau 2" pour la plongée montre de la détermination et de la rigueur, des "soft skills" implicites[cite: 33, 34].
