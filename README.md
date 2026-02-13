@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Élève Ingénieur @ CY Tech | Blockchain & Fullstack Dev
 
-Basé à **Rueil-Malmaison**, je suis actuellement en cycle ingénieur **Mathématiques Appliquées**. Passionné par la **DeFi** et l'écosystème **Web3**, je combine mes compétences en mathématiques et en développement pour construire des dApps et des smart contracts robustes.
+Basé à **Paris**, je suis actuellement en cycle ingénieur **Mathématiques Appliquées**. Passionné par la **DeFi** et l'écosystème **Web3**, je combine mes compétences en mathématiques et en développement pour construire des dApps et des smart contracts robustes.
 
 * 🗣️ **Langues :** Français (Natif), Anglais (C1 - Dual Diploma), Espagnol (Intermédiaire)
 * 🏃 **Hobbies :** Course à pied (Compétition), Plongée (Niveau 2), Guitare
