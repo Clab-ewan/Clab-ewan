@@ -50,4 +50,4 @@ Feel free to reach out to discuss Tech, DeFi, or opportunities!
 
 * 📍 **Paris, France**
 * 🎓 **CY Tech** (Applied Mathematics Engineering)
-* 💼 **[LinkedIn](https://www.linkedin.com/in/ewan-clabaut/)**
+* 💼 **[LinkedIn](https://www.linkedin.com/in/ewanclabaut/)**
