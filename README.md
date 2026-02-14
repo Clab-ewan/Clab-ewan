@@ -1,31 +1,31 @@
-# Salut, je suis Ewan ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi there, I'm Ewan! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-### 👨‍💻 Élève Ingénieur @ CY Tech | Blockchain & Fullstack Dev
+### 👨‍💻 Engineering Student @ CY Tech | Blockchain & Fullstack Dev
 
-Basé à **Paris**, je suis actuellement en cycle ingénieur **Mathématiques Appliquées**. Passionné par la **DeFi** et l'écosystème **Web3**, je combine mes compétences en mathématiques et en développement pour construire des dApps et des smart contracts robustes.
+[cite_start]Based in the **Paris Area** (Rueil-Malmaison) [cite: 3][cite_start], I am currently pursuing an Engineering degree in **Applied Mathematics**[cite: 4]. Passionate about **DeFi** and the **Web3** ecosystem, I combine my mathematical background with development skills to build robust dApps and smart contracts.
 
-* 🗣️ **Langues :** Français (Natif), Anglais (C1 - Dual Diploma), Espagnol (Intermédiaire)
-* 🏃 **Hobbies :** Course à pied (Compétition), Plongée (Niveau 2), Guitare
-
----
-
-### 🏆 Hackathons & Distinctions
-
-J'adore le challenge des hackathons pour prototyper des solutions innovantes en temps limité.
-
-* 🥉 **3ème Place - Kiln Hackathon (Paris, Fév 2025)**
-    * Développement d'une API Rest pour un système de points de fidélité DeFi.
-    * *Stack : Python, API Rest, Git.*
-
-* 🇬🇧 **Avalanche Summit Hackathon (Londres, Mai 2025)**
-    * Création d'une dApp complète sur le Fuji Testnet : Token ERC-20 personnalisé, Marketplace et jeux de hasard "on-chain".
-    * *Stack : Solidity, React, TypeScript, Avalanche SDK.*
+* [cite_start]🗣️ **Languages:** French (Native), English (Fluent/C1 - Dual Diploma) [cite: 4, 31][cite_start], Spanish (Intermediate)[cite: 31].
+* [cite_start]🏃 **Interests:** Competitive Running (10km) [cite: 33][cite_start], Scuba Diving (CMAS Level 2) [cite: 34][cite_start], Guitar[cite: 35].
 
 ---
 
-### 🛠️ Ma Stack Technique
+### 🏆 Hackathons & Achievements
 
-| Blockchain / Web3 | Langages & Backend | Outils & DevOps |
+I love the challenge of hackathons to prototype innovative solutions under time constraints.
+
+* [cite_start]🥉 **3rd Place - Kiln Hackathon (Paris, Feb 2025)** [cite: 22, 23]
+    * [cite_start]Developed a REST API to implement a loyalty point system for Kiln's DeFi products[cite: 24].
+    * [cite_start]*Stack: Python, REST API, Git.* [cite: 24]
+
+* [cite_start]🇬🇧 **Avalanche Summit Hackathon (London, May 2025)** [cite: 20, 21]
+    * [cite_start]Built a fully functional dApp deployed on Fuji Testnet: Custom ERC-20 token creation, integrated marketplace, and on-chain games of chance[cite: 21].
+    * [cite_start]*Stack: Solidity, React, TypeScript, Avalanche SDK.* [cite: 21]
+
+---
+
+### 🛠️ Tech Stack
+
+| Blockchain / Web3 | Languages & Backend | Tools & DevOps |
 | :--- | :--- | :--- |
 | ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) | ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
 | ![Foundry](https://img.shields.io/badge/Foundry-%23000000.svg?style=for-the-badge&logo=foundry&logoColor=white) | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) |
@@ -34,23 +34,23 @@ J'adore le challenge des hackathons pour prototyper des solutions innovantes en 
 
 ---
 
-### 🚀 Projets en vedette
+### 🚀 Featured Projects
 
 #### ⛓️ Blockchain & Web3
-* **[Avalanche.fun](https://github.com/Clab-ewan/Avalanche.fun)** : Exploration de l'écosystème Avalanche (Lien avec le hackathon).
-* **[rusty_chain](https://github.com/Clab-ewan/rusty_chain)** : Implémentation de concepts blockchain en Rust 🦀.
-* **[FundMe](https://github.com/Clab-ewan/FundMe)** : Smart contract de financement participatif.
+* **[Avalanche.fun](https://github.com/Clab-ewan/Avalanche.fun)** : Exploration of the Avalanche ecosystem (Hackathon project).
+* **[rusty_chain](https://github.com/Clab-ewan/rusty_chain)** : Implementation of blockchain concepts in Rust 🦀.
+* **[FundMe](https://github.com/Clab-ewan/FundMe)** : Crowdfunding smart contract.
 
-#### ⚡ Système & Web
-* **C-Wire** : Script d'analyse de données pour réseau électrique (C & Shell).
-* **[Stade-trotter](https://github.com/Simonhamel1/Stade-trotter)** : Agence de voyage pour fans de football (PHP).
+#### ⚡ Systems & Web
+* [cite_start]**C-Wire** : Data analysis script to hypothesize on the state of a national power grid (C & Shell)[cite: 27].
+* **[Stade-trotter](https://github.com/Simonhamel1/Stade-trotter)** : Travel agency platform dedicated to football fans (PHP).
 
 ---
 
-### 📫 Me contacter
+### 📫 Get in Touch
 
-N'hésite pas à me contacter pour discuter Tech, DeFi ou opportunités !
+Feel free to reach out to discuss Tech, DeFi, or opportunities!
 
-* 📍 **Paris**
-* 🎓 **CY Tech** (Mathématiques Appliquées)
-* 💼 **[LinkedIn](https://www.linkedin.com/in/ewan-clabaut/)** ```
+* 📍 **Paris / Rueil-Malmaison, France**
+* 🎓 **CY Tech** (Applied Mathematics Engineering)
+* 💼 **[LinkedIn](https://www.linkedin.com/in/ewan-clabaut/)**
